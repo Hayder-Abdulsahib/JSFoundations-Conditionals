@@ -26,5 +26,3 @@ if ( !isNaN(int_num1) && !isNaN(int_num2) ) {
 
 
 
-
-// console.log(`Hi, I'm ${int_num2 + 5}.`);
